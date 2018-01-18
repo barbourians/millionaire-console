@@ -53,7 +53,7 @@ a[3][3] = ["Traditionally, people use their feet to extract juice from which fru
 a[3][4] = ["With which activity is the phrase 'going, going, gone' most associated?","An auction","Gardening","Horse racing","Boxing","An auction"]
 a[3][5] = ["Where are the headquarters of the US Department of Defense?","The Triangle","The Rectangle","The Pentagon","The Dodecahedron","The Pentagon"]
 a[3][6] = ["Which of these is a theory about the creation of the universe?","Big Bong","Big Bang","Big Ben","Big Bertha","Big Bang"]
-a[3][7] = ["Which of the following is most likely to run on caterpillar tracks?","Car","Train","Bulldozer","Bicycle","Buldozer"]
+a[3][7] = ["Which of the following is most likely to run on caterpillar tracks?","Car","Train","Bulldozer","Bicycle","Bulldozer"]
 a[3][8] = ["Which of these is a satellite TV channel?","Trademark","Landmark","Hallmark","Dirtymark","Hallmark"]
 a[3][9] = ["Which of these are located at the back of your throat?","Deltoids","Tabloids","Adenoids","Solenoids","Adenoids"]
 
