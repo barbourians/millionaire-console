@@ -136,7 +136,7 @@ def check_answer(lvl):
             break
 
       lets_wait("The audience is voting", 4)
-      print "\n The majority (%s%%) of the audience think that the correct answer is %s." % (w, audience_answer)
+      print "\n The majority (%s%) of the audience think that the correct answer is %s." % (w, audience_answer)
       check_answer(lvl)
       
     else:
